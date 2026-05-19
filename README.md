@@ -52,6 +52,6 @@ Driven by a mission to bridge the gap between raw, complex data streams and acti
 
 ## 📬 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/william-ervin](www.linkedin.com/in/william-ervin-773b2a96)
+* 💼 **LinkedIn:** [linkedin.com/in/william-ervin](https://www.linkedin.com/in/william-ervin-773b2a96/)
 * 📧 **Email:** [william7ervin@gmail.com](mailto:william7ervin@gmail.com)
 * 🗺️ **Location:** Houston (Cypress), TX
